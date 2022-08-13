@@ -1,12 +1,10 @@
-{
-  "news": [
-    {
-      "name": "NBT",
-      "url": "https://navbharattimes.indiatimes.com/breaking-news-in-hindi/liveblog/58166012.cms"
-    },
-    {
-      "name": "AajTak",
-      "url": "https://www.aajtak.in"
-    }
-  ]
-}
+[
+  {
+    "name": "NBT",
+    "url": "https://navbharattimes.indiatimes.com/breaking-news-in-hindi/liveblog/58166012.cms"
+  },
+  {
+    "name": "AajTak",
+    "url": "https://www.aajtak.in"
+  }
+]
